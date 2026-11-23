@@ -17,6 +17,16 @@ When the game starts, the main menu appears with:
 
 The mode selection screen provides **CLASSIC**, **INTERMEDIATE**, and **SURVIVAL**.
 
+## Screenshots
+
+| Home screen | Classic gameplay |
+|---|---|
+| ![Pac-Man home screen](gif/pac%20tab.jpg) | ![Classic Pac-Man maze](gif/pacman%20maz%20eating.gif) |
+
+| Survival mode |
+|---|
+| ![Survival mode](images/survival4.png) |
+
 ## Game Modes
 
 ### Classic
